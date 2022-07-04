@@ -1,0 +1,72 @@
+body {
+    color: #F9FAF8;
+    background-color: #1F2937;
+  }
+
+.whitebackground {
+    color:#1F2937
+}
+
+.divheader {
+    display: flex;
+    background: #1F2937;
+    border: 4px solid brown;
+    font-family: Roboto;
+    font-size: 24px;
+    height: 100px;
+    flex: 1;
+}
+
+.maindiv {
+    display: flex;
+    background: #1F2937;
+    border: 4px solid brown;
+    font-family: Roboto;
+    font-size: 24px;
+    height: 300px;
+    flex: 1;
+}
+
+.randominfo {
+    display: flex;
+    color: #1F2937;
+    background-color: #F9FAF8;
+    border: 4px solid brown;
+    font-family: Roboto;
+    font-size: 36px;
+    height: 300px;
+    flex: 1;
+}
+  
+.menuheader {
+    display: flex;
+    background: #1F2937;
+    border: 4px solid brown;
+    font-family: Roboto;
+    font-size: 24px;
+    height: 100px;
+    flex: 1 1 0;
+}
+  
+.logo {
+    display: flex;
+    background: #1F2937;
+    border: 4px solid brown;
+    font-family: Roboto;
+    font-size: 24px;
+    font
+    height: 100px;
+    flex: 3 1 0;
+}
+
+.firstelement {
+    border: 1px solid blue;
+
+}
+
+.textoprueba {
+    font: Roboto;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+  
